@@ -35,9 +35,9 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/chaosblade-io/chaosblade-spec-go/log"
-	"github.com/chaosblade-io/chaosblade-spec-go/spec"
 	"github.com/sirupsen/logrus"
+	"github.com/spencercjh/chaosblade-spec-go/log"
+	"github.com/spencercjh/chaosblade-spec-go/spec"
 )
 
 var proPath string
